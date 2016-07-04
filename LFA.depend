@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464952510 source:c:\users\iot 2\desktop\lfa\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+	<cstring>
+	<fstream>
+	<algorithm>
+	<cstring>
+
